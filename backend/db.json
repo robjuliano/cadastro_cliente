@@ -1,0 +1,10 @@
+{
+    "clients":[
+        {
+        "id": 1,
+        "name": "Robson Juliano Master",
+        "email": "robsonj2011@gmail.com", 
+        "tel":"1234-5678"
+
+    }]
+}
